@@ -1,67 +1,67 @@
-Site,Job Title ,Type,City/County,WA,Region,Salary Low,Salary High,,,,,,,
-Indeed,Data Analyst,,Seattle ,WA,NW,65700,83100,,,,,,,
-Indeed,Staff Analyst 4,FT,Everett,WA,NW,85500,108000,,,,,,,
-Indeed,Market Data Insights Analyst,,Seattle ,WA,NW,,,,,,,,,
-Indeed,Fullfillment Methods Process Analyst,,Everett,WA,NW,,,,,,,,,
-Indeed,Data Analyst,FT,Seattle ,WA,NW,70000,95000,,,,,,,
-Indeed,Data Analyst,FT,Seattle ,WA,NW,,,,,,,,,
-Indeed,BI Analyst,FT,Seattle ,WA,NW,58245,129979,,,,,,,
-Indeed,Data Analyst 2,FT,Seattle ,WA,NW,76500,125500,,,,,,,
-Indeed,Digital Data Analyst,FT,Seattle ,WA,NW,82396,90636,,,,,,,
-Indeed,Civil Business Analyst,FT,King County,WA,NW,105350,132450,,,,,,,
-Indeed,QC Data Analyst,FT,Silverdale,WA,NW,,,,,,,,,
-Indeed,Data Analyst,FT,Seattle ,WA,NW,81200,10300,,,,,,,
-Indeed,Data Analyst,FT,Seattle ,WA,NW,,,,,,,,,
-Indeed,ML Data Analyst,FT,Seattle ,WA,NW,,,,,,,,, 
-Indeed,Market Intel & Data Analyst,FT,Bellevue,WA,NW,58200,73600,,,,,,,
-Indeed,"Data Analyst, Risk Data Mining",FT,Seattle ,WA,NW,78600,99600,,,,,,,
-Indeed,BI Analyst,FT,,,NW,,,,,,,,,
-Indeed,Business Analyst,FT,Everett,WA,NW,87880,118112,,,,,,,
-Indeed,Analyst,FT,Seattle,WA,NW,65600,83000,,,,,,,
-Indeed,BI Analyst,FT,Camas,WA,NW,70300,89100,,,,,,,
-Indeed,Product / Payment Analyst,FT,Seattle,WA,NW,79200,100000,,,,,,,
-Indeed,Data Analyst,FT,Seattle,WA,NW,65000,70000,,,,,,,
-Indeed,Data Privacy Analyst,FT,Seattle,WA,NW,64300,81500,,,,,,,
-Indeed,Data Analyst,FT,Bellevue,WA,NW,60000,,,,,,,,
-Indeed,Business Analyst,FT,Seattle,WA,NW,80300,102000,,,,,,,
-Indeed,Data Programmer & Analyst,FT,Seattle,WA,NW,72000,75000,,,,,,,
-Indeed,Data Analyst,FT,Seattle,WA,NW,84300,107000,,,,,,,
-Indeed,Data Analytics Associate,,Seattle,WA,NW,55000,70000,,,,,,,
-Indeed,Data Analyst,,Redmond,WA,NW,61900,78300,,,,,,,
-Indeed,Data Analyst,FT,Seattle,WA,NW,64200,81400,,,,,,,
-Indeed,Business Analyst,FT,Everett,WA,NW,87880,118112,,,,,,,
-Indeed,Sr. Data Analyst,,Remote,WA,NW,74259,116032,,,,,,,
-Indeed,Data Analyst,FT,Remote,WA,NW,55000,64000,,,,,,,
-Indeed,Sys Operation Analyst,FT,Remote,WA,NW,57700,73100,,,,,,,
-Indeed,Sr. Data Analyst,FT,Remote,WA,NW,74000,108000,,,,,,,
-Indeed,Junior Data Analyst,FT,Portland,OR,NW,,55000,,,,,,,
-Indeed,Data Analyst/Data Engineer,FT,Remote,OR,NW,53400,67600,,,,,,,
-Indeed,QC Analyst,FT,Burlington,WA,NW,50000,70000,,,,,,,
-Indeed,Data Analyst Associate,FT,Gladstone,OR,NW,61000,76100,,,,,,,
-Indeed,Claims Representative,FT,Remote,OR,NW,44600,55000,,,,,,,
-Indeed,Data & Analytics Analyst,FT,Portland,OR,NW,65700,83100,,,,,,,
-Indeed,Data Analyst - Hybrid Schedule,FT,Remote,OR,NW,,66100,,,,,,,
-Indeed,Data Analyst,FT,Boise,ID,NW,114400,133120,,,,,,,
-Indeed,Data Analyst,FT,Meridian,ID,NW,42000,,,,,,,,
-Indeed,Data Analyst,FT,Nampa,ID,NW,52920,66150,,,,,,,
-Indeed,Data Analyst - Training Coordinator,FT,Plummer,ID,NW,41600,65000,,,,,,,
-Indeed,Business Intelligence Analyst,FT,Boise,ID,NW,67400,85400,,,,,,,
-Indeed,Data Analyst,FT,Post Falls,ID,NW,70000,95000,,,,,,,
-Indeed,Research Data Analyst,FT,Boise,ID,NW,56472,61880,,,,,,,
-Indeed,IT BI Data Analyst,FT,Meridian,ID,NW,83200,105000,,,,,,,
-Indeed,BI Analyst,FT,Sandpoint,ID,NW,82700,105000,,,,,,,
-Indeed,Implementation Data Analyst,FT,Boise,ID,NW,58300,73900,,,,,,,
-Indeed,Procurement Analyst 2,FT,Auburn,WA,NW,68000,93600,,,,,,,
-Indeed,Data Analyst,,Dallas,TX,SW,64500,81700,,,,,,,
-Indeed,Data Modelling Analyst,FT,Dallas,TX,SW,59400,75200,,,,,,,
-Indeed,Data Anayst,FT,Austin,TX,SW,65000,95000,,,,,,,
-Indeed,Category Analyst,FT,Dallas,TX,SW,36900,46700,,,,,,,
-Indeed,Data Analyst Apprentice,FT,Richardson,TX,SW,35000,45000,,,,,,,
-Indeed,Data Analyst I,FT,Dallas,TX,SW,,75031,,,,,,,
-Indeed,Junior Data Analyst,FT,Houston,TX,SW,38300,48500,,,,,,,
-Indeed,Data Analyst + Apprentice (Entry-Level),FT,Richardson,TX,SW,35000,45000,,,,,,,
-Indeed,Data Analyst,FT,Coppell,TX,SW,60000,70000,,,,,,,
-Indeed,Data Analyst Apprentice(Training),FT,Austin,TX,SW,70000,80000,,,,,,,
-Indeed,Data Developer/Analyst - Entry Level,FT,Plano,TX,SW,59000,74000,,,,,,,
-Indeed,Research Data Analyst,FT,Houston,TX,SW,65000,85000,,,,,,,
-Indeed,Junior Data Analyst(Warehouse),FT,Houston,TX,SW,45300,57300,,,,,,,
+Site,Job Title ,Type,City/County,WA,Region,Salary Low,Salary High
+Indeed,Data Analyst,,Seattle ,WA,NW,65700,83100
+Indeed,Staff Analyst 4,FT,Everett,WA,NW,85500,108000
+Indeed,Market Data Insights Analyst,,Seattle ,WA,NW,,
+Indeed,Fullfillment Methods Process Analyst,,Everett,WA,NW,,
+Indeed,Data Analyst,FT,Seattle ,WA,NW,70000,95000
+Indeed,Data Analyst,FT,Seattle ,WA,NW,,
+Indeed,BI Analyst,FT,Seattle ,WA,NW,58245,129979
+Indeed,Data Analyst 2,FT,Seattle ,WA,NW,76500,125500
+Indeed,Digital Data Analyst,FT,Seattle ,WA,NW,82396,90636
+Indeed,Civil Business Analyst,FT,King County,WA,NW,105350,132450
+Indeed,QC Data Analyst,FT,Silverdale,WA,NW,,
+Indeed,Data Analyst,FT,Seattle ,WA,NW,81200,10300
+Indeed,Data Analyst,FT,Seattle ,WA,NW,,
+Indeed,ML Data Analyst,FT,Seattle ,WA,NW,,
+Indeed,Market Intel & Data Analyst,FT,Bellevue,WA,NW,58200,73600
+Indeed,"Data Analyst, Risk Data Mining",FT,Seattle ,WA,NW,78600,99600
+Indeed,BI Analyst,FT,,,NW,,
+Indeed,Business Analyst,FT,Everett,WA,NW,87880,118112
+Indeed,Analyst,FT,Seattle,WA,NW,65600,83000
+Indeed,BI Analyst,FT,Camas,WA,NW,70300,89100
+Indeed,Product / Payment Analyst,FT,Seattle,WA,NW,79200,100000
+Indeed,Data Analyst,FT,Seattle,WA,NW,65000,70000
+Indeed,Data Privacy Analyst,FT,Seattle,WA,NW,64300,81500
+Indeed,Data Analyst,FT,Bellevue,WA,NW,60000,
+Indeed,Business Analyst,FT,Seattle,WA,NW,80300,102000
+Indeed,Data Programmer & Analyst,FT,Seattle,WA,NW,72000,75000
+Indeed,Data Analyst,FT,Seattle,WA,NW,84300,107000
+Indeed,Data Analytics Associate,,Seattle,WA,NW,55000,70000
+Indeed,Data Analyst,,Redmond,WA,NW,61900,78300
+Indeed,Data Analyst,FT,Seattle,WA,NW,64200,81400
+Indeed,Business Analyst,FT,Everett,WA,NW,87880,118112
+Indeed,Sr. Data Analyst,,Remote,WA,NW,74259,116032
+Indeed,Data Analyst,FT,Remote,WA,NW,55000,64000
+Indeed,Sys Operation Analyst,FT,Remote,WA,NW,57700,73100
+Indeed,Sr. Data Analyst,FT,Remote,WA,NW,74000,108000
+Indeed,Junior Data Analyst,FT,Portland,OR,NW,,55000
+Indeed,Data Analyst/Data Engineer,FT,Remote,OR,NW,53400,67600
+Indeed,QC Analyst,FT,Burlington,WA,NW,50000,70000
+Indeed,Data Analyst Associate,FT,Gladstone,OR,NW,61000,76100
+Indeed,Claims Representative,FT,Remote,OR,NW,44600,55000
+Indeed,Data & Analytics Analyst,FT,Portland,OR,NW,65700,83100
+Indeed,Data Analyst - Hybrid Schedule,FT,Remote,OR,NW,,66100
+Indeed,Data Analyst,FT,Boise,ID,NW,114400,133120
+Indeed,Data Analyst,FT,Meridian,ID,NW,42000,
+Indeed,Data Analyst,FT,Nampa,ID,NW,52920,66150
+Indeed,Data Analyst - Training Coordinator,FT,Plummer,ID,NW,41600,65000
+Indeed,Business Intelligence Analyst,FT,Boise,ID,NW,67400,85400
+Indeed,Data Analyst,FT,Post Falls,ID,NW,70000,95000
+Indeed,Research Data Analyst,FT,Boise,ID,NW,56472,61880
+Indeed,IT BI Data Analyst,FT,Meridian,ID,NW,83200,105000
+Indeed,BI Analyst,FT,Sandpoint,ID,NW,82700,105000
+Indeed,Implementation Data Analyst,FT,Boise,ID,NW,58300,73900
+Indeed,Procurement Analyst 2,FT,Auburn,WA,NW,68000,93600
+Indeed,Data Analyst,,Dallas,TX,SW,64500,81700
+Indeed,Data Modelling Analyst,FT,Dallas,TX,SW,59400,75200
+Indeed,Data Anayst,FT,Austin,TX,SW,65000,95000
+Indeed,Category Analyst,FT,Dallas,TX,SW,36900,46700
+Indeed,Data Analyst Apprentice,FT,Richardson,TX,SW,35000,45000
+Indeed,Data Analyst I,FT,Dallas,TX,SW,,75031
+Indeed,Junior Data Analyst,FT,Houston,TX,SW,38300,48500
+Indeed,Data Analyst + Apprentice (Entry-Level),FT,Richardson,TX,SW,35000,45000
+Indeed,Data Analyst,FT,Coppell,TX,SW,60000,70000
+Indeed,Data Analyst Apprentice(Training),FT,Austin,TX,SW,70000,80000
+Indeed,Data Developer/Analyst - Entry Level,FT,Plano,TX,SW,59000,74000
+Indeed,Research Data Analyst,FT,Houston,TX,SW,65000,85000
+Indeed,Junior Data Analyst(Warehouse),FT,Houston,TX,SW,45300,57300
